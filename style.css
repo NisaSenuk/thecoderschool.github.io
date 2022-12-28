@@ -1,0 +1,202 @@
+.img_nav{
+    border-left: 0;
+}
+
+
+
+aside{
+    color: rgb(2, 5, 7);
+    size: 34px;
+    background: rgb(255, 255, 255);
+    float: left;
+    height: 399px;
+    padding-left: 12px;
+    font-size: 45px;
+    border-radius: 12px;
+    padding-bottom: 130px;
+}
+
+.asidee{
+    padding-right: 36px;
+    font-size: xx-large;
+}
+
+.home{
+    padding-bottom: 60px;
+}
+.contact{
+    padding-bottom: 60px;
+}
+.courses{
+    padding-bottom: 60px;
+}
+.about{
+    padding-bottom: 60px;
+}
+
+.ho{
+    font-size: x-large;
+    font-style: oblique;
+    color: rgb(0, 0, 0);
+    background-color: rgba(183, 183, 106, 0);
+    border: none;
+}
+
+.co{
+    font-size: x-large;
+    font-style: oblique;
+    color: rgb(0, 0, 0);
+    background-color: rgba(183, 183, 106, 0);
+    border: none;
+}
+
+.cs{
+    font-size: x-large;
+    font-style: oblique;
+    color: rgb(22, 15, 7);
+    background-color: rgba(183, 183, 106, 0);
+    border: none;
+}
+
+.ab{
+    font-size: x-large;
+    font-style: oblique;
+    color: rgb(0, 0, 0);
+    background-color: rgba(183, 183, 106, 0);
+    border: none;
+}
+
+.Help{
+    font-size: xx-large;
+    font-style: oblique;
+    color: rgb(0, 0, 0);
+    border-radius: 56px;
+    padding-right: 34px;
+    padding-left: 34px;
+    border: none;
+    padding-top: 12px;
+    padding-bottom: 12px;
+    
+}
+
+body{
+    background-color: rgb(228, 228, 255);
+}
+
+.nav{
+    background-color: rgba(255, 255, 255, 0.512);
+    border-radius: 34px;
+}
+
+img{
+    size: 23px;
+}
+
+.text{
+    border-color: rgb(0, 0, 0);
+    color: rgb(255, 255, 255);
+    background-color: rgb(0, 0, 0);
+    padding-bottom: 10px;
+    padding-top: 10px;
+    padding-left: 6px;
+    font-size: 23px;
+    font-style: oblique;
+    border-radius: 34px;
+}
+
+.mainhtml{
+    color: rgb(0, 0, 0);
+    text-decoration: none;
+    font-size: 56px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font: bold;
+    font-style: oblique;
+    
+    
+}
+
+.imghtml{
+    padding-left: 200px;
+}
+
+.html{
+    background-color: rgb(255, 16, 16);
+    padding-right: 12px;
+    border-radius: 99px;
+}
+
+.maincss{
+    color: rgb(0, 0, 0);
+    text-decoration: none;
+    font-size: 56px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font: bold;
+    font-style: oblique;
+}
+
+.imgcss{
+    padding-left: 200px;
+}
+
+.css{
+    background-color: rgb(16, 163, 255);
+    padding-right: 12px;
+    border-radius: 99px;
+}
+
+.mainpython{
+    color: rgb(0, 0, 0);
+    text-decoration: none;
+    font-size: 56px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font: bold;
+    font-style: oblique;
+}
+
+.imgpython{
+    padding-left: 200px;
+}
+
+.python{
+    background-color: rgb(23, 116, 0);
+    padding-right: 12px;
+    border-radius: 99px;
+}
+
+.mainjs{
+    color: rgb(0, 0, 0);
+    text-decoration: none;
+    font-size: 56px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font: bold;
+    font-style: oblique;
+}
+
+.imgjs{
+    padding-left: 200px;
+}
+
+.js{
+    background-color: rgb(255, 225, 0);
+    padding-right: 12px;
+    border-radius: 99px;
+}
+
+.mainphp{
+    color: rgb(0, 0, 0);
+    text-decoration: none;
+    font-size: 56px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font: bold;
+    font-style: oblique;
+}
+
+.imgphp{
+    padding-left: 200px;
+}
+
+.php{
+    background-color: rgb(255, 0, 149);
+    padding-right: 12px;
+    border-radius: 99px;
+}
